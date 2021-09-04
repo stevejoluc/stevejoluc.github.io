@@ -59,7 +59,7 @@ theme:
   palette:
     - scheme: default
       primary: dimgrey
-      accent: indigo
+      accent: dimgrey
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
