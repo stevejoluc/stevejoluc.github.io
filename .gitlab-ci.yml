@@ -12,7 +12,7 @@ test:
     paths:
     - test
   except:
-  - main
+  - master
 
 pages:
   stage: deploy
