@@ -8,6 +8,7 @@ test:
   stage: test
   script:
   - mkdocs build --strict --verbose --site-dir test
+  - rm -rf public
   artifacts:
     paths:
     - test
