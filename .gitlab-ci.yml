@@ -7,7 +7,9 @@ before_script:
 test:
   stage: test
   script:
-  - rm -rf public
+  - mkdir .public
+  - cp -r * .public
+  - mv .public public
   - mkdocs build --strict --verbose --site-dir test
   artifacts:
     paths:
