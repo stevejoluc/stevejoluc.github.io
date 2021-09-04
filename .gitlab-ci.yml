@@ -7,8 +7,8 @@ before_script:
 test:
   stage: test
   script:
-  - mkdocs build --strict --verbose --site-dir test
   - rm -rf public
+  - mkdocs build --strict --verbose --site-dir test
   artifacts:
     paths:
     - test
