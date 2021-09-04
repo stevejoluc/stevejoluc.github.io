@@ -18,9 +18,6 @@ pages:
   stage: deploy
   script:
   - mkdocs build --strict --verbose
-  - mkdir .public
-  - cp -r * .public
-  - mv .public public
   artifacts:
     paths:
     - public
