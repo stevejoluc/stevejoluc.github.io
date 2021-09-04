@@ -17,7 +17,6 @@ test:
 pages:
   stage: deploy
   script:
-  - rm -rf public
   - mkdocs build --strict --verbose
   artifacts:
     paths:
