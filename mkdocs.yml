@@ -156,6 +156,7 @@ nav:
       - Welcome: index.md
       - About me: about_me.md
       - What am I working on? : active_projects.md
+      - Contact me : contact.md
   # - Blog: blog.md
   # - Projects: projects.md
   # - Getting started:
