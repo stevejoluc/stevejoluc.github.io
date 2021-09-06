@@ -153,11 +153,11 @@ markdown_extensions:
 # Page tree
 nav:
   - Home:
-      - Welcome!: index.md
+      - Welcome: index.md
       - About me: about_me.md
       - What am I working on? : active_projects.md
-  - Blog: blog.md
-  - Projects: projects.md
+  # - Blog: blog.md
+  # - Projects: projects.md
   # - Getting started:
   #   - Installation: getting-started.md
   #   - Creating your site: creating-your-site.md
