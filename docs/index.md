@@ -1,3 +1,3 @@
 # Home
 
-Hi, my name is Steven.
+Hello, welcome to my Gitlab page!
