@@ -58,16 +58,16 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: white
-      accent: white
+      primary: grey
+      accent: grey
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
       primary: black
       accent: black
       toggle:
-        icon: material/weather-night
+        icon: material/toggle-switch
         name: Switch to light mode
   font:
     text: Roboto
