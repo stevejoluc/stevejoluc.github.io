@@ -13,4 +13,4 @@ My name is Steven.
 - Expanding my Homelab
 - Advancing my Smart Home
 - Golfing
-- Oh and of course, spending quality time with the family! :smile:
+- Oh and of course, spending quality time with the family! :)
