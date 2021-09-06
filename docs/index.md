@@ -1,3 +1,3 @@
 # Home
 
-# Hi, my name is Steven.
+Hi, my name is Steven.
