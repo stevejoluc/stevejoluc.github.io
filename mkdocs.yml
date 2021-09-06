@@ -61,13 +61,13 @@ theme:
       primary: dimgrey
       accent: dimgrey
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/lightbulb-outline
         name: Switch to dark mode
     - scheme: slate
       primary: red
       accent: red
       toggle:
-        icon: material/toggle-switch
+        icon: material/lightbulb
         name: Switch to light mode
   font:
     text: Roboto
