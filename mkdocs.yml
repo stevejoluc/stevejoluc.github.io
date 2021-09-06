@@ -154,6 +154,7 @@ markdown_extensions:
 nav:
   - Home: 
       - About me: index.md
+      - What am I working on? : active_projects.md
   - Blog: blog.md
   - Projects: projects.md
   # - Getting started:
