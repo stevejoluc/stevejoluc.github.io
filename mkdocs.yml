@@ -58,14 +58,14 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: white
+      accent: white
       toggle:
         icon: material/lightbulb-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: grey
-      accent: grey
+      primary: black
+      accent: black
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
