@@ -104,8 +104,8 @@ extra:
   #   provider: google
   #   property: !ENV GOOGLE_ANALYTICS_KEY
   social:
-    # - icon: fontawesome/brands/github
-    #   link: https://github.com/squidfunk
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/stevejoluc/my-first-wiki
     # - icon: fontawesome/brands/docker
     #   link: https://hub.docker.com/r/squidfunk/mkdocs-material/
     - icon: fontawesome/brands/linkedin
