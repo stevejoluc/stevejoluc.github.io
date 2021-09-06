@@ -61,13 +61,13 @@ theme:
       primary: white
       accent: white
       toggle:
-        icon: material/lightbulb-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
     - scheme: slate
       primary: black
       accent: black
       toggle:
-        icon: material/lightbulb
+        icon: material/weather-night
         name: Switch to light mode
   font:
     text: Roboto
