@@ -58,8 +58,8 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: grey
-      accent: grey
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -158,7 +158,8 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home: 
+      - About me: index.md
   - Blog: blog.md
   - Projects: projects.md
   # - Getting started:
