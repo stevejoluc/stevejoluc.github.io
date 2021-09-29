@@ -154,20 +154,5 @@ markdown_extensions:
 nav:
   - Home:
       - Welcome: index.md
-      - About me: about_me.md
-      - What am I working on? : active_projects.md
-      - Contact me : contact.md
   # - Blog: blog.md
   # - Projects: projects.md
-  # - Getting started:
-  #   - Installation: getting-started.md
-  #   - Creating your site: creating-your-site.md
-  #   - Publishing your site: publishing-your-site.md
-  #   - Customization: customization.md
-  #   - Troubleshooting: troubleshooting.md
-  #   - Data privacy: data-privacy.md
-  #   - License: license.md
-  #   - Releases:
-  #     - Changelog: changelog.md
-  #     - Upgrade guide: upgrading.md
-  #     - Deprecations: deprecations.md
