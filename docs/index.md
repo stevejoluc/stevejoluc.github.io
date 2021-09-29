@@ -22,7 +22,7 @@ My name is Steven Lucero. I am known to be a natural leader who is passionate ab
  * To view active list of my current stories, check out my [Status Board.](https://gitlab.com/stevejoluc/my-first-wiki/-/boards)
 
 ## Resume
-- https://registry.jsonresume.org/stevejoluc
+- [Online Resume](https://registry.jsonresume.org/stevejoluc)
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/steven-lucero/)
