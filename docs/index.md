@@ -1,6 +1,5 @@
 # Home
-
-Hello, welcome to my Gitlab page!
+Welcome to my Gitlab page!
 
 ## Introduction
 My name is Steven. 
