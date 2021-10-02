@@ -5,15 +5,28 @@ Welcome to my Gitlab page!
 My name is Steven Lucero. I am known to be a natural leader who is passionate about about technology and people. I approach each day with a growth mindset; this has taught me to not be afraid of change, but to embrace it. I take pride in being a continuous learner, identifying opportunities to grow, and always challenging the status quo. Being an effective communicator across all my organization allows me to help shape strategic decisions to provide our customers and employees the best experience possible.
 
 ## Hobbies
+
+### Technology
+- Open Source
 - Learning new Technologies
-- Working on IT Projects (like this one)
+- Working on IT Projects
 - Expanding my Homelab
 - Advancing my Smart Home
-- Golfing
-- Oh and of course, spending quality time with the family! :)
+    - Home Assistant
+
+### Sports
+- Golf
+- Football
+    - GO Chargers and Cardinals
+- Soccer
+
+### Values
+- Family
+- Friends
+- Faith
+- Freedom
 
 ## Goals
-- Pass the AWS Certified Solutions Architect – Associate
 - Become a first line leader
 
 ## Active Projects
