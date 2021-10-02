@@ -58,7 +58,7 @@ theme:
     - toc.integrate
   palette:
     - scheme: default
-      primary: indigo
+      primary: black
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -153,5 +153,8 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  # - Blog: blog.md
+  - Projects: 
+    - Intorduction: intro.md
+    - Tools: 
+        - Terraform: tools/terraform.md
   # - Projects: projects.md
