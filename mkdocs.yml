@@ -75,6 +75,7 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+  custom_dir: theme
 
 # Plugins
 plugins:
