@@ -25,6 +25,8 @@ site_dir: public
 # Copyright
 copyright: Copyright &copy; 2016 - 2021 Martin Donath
 
+extra_css:
+  - assets/css/main.css
 extra_javascript:
   - assets/javascript/links.js
 
