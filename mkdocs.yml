@@ -130,7 +130,7 @@ markdown_extensions:
   #         format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed
   - pymdownx.tasklist:
-  #     custom_checkbox: true
+      custom_checkbox: true
   - pymdownx.tilde
 
 # Page tree
