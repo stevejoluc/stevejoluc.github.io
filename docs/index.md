@@ -17,14 +17,13 @@ My name is Steven Lucero. I am known to be a natural leader who is passionate ab
 ### Sports
 - Golf
 - Football
-    - GO Chargers and Cardinals
 - Soccer
 
 ### Values
-- Family
-- Friends
-- Faith
-- Freedom
+- [x] Family
+- [x] Friends
+- [x] Faith
+- [x] Freedom
 
 ## Goals
 - Become a first line leader
