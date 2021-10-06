@@ -34,15 +34,9 @@ extra_javascript:
 theme:
   name: material
   custom_dir: theme
-
-  # Static files
-  # static_templates:
-  #   - 404.html
-
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
-
   # Default values, taken from mkdocs_theme.yml
   language: en
   features:
@@ -84,24 +78,6 @@ theme:
 # Plugins
 plugins:
   - search
-  # - redirects:
-  #     redirect_maps:
-  #       changelog/insiders.md: insiders/changelog.md
-  #       extensions/admonition.md: reference/admonitions.md
-  #       extensions/codehilite.md: reference/code-blocks.md
-  #       extensions/footnotes.md: reference/footnotes.md
-  #       extensions/metadata.md: reference/meta-tags.md
-  #       extensions/permalinks.md: setup/setting-up-navigation.md #permalink
-  #       extensions/pymdown.md: reference/admonitions.md
-  #       plugins/revision-date.md: setup/adding-a-git-repository.md #revision-date
-  #       plugins/search.md: setup/setting-up-site-search.md
-  #       releases/4.md: upgrading.md #upgrading-from-4x-to-5x
-  #       releases/5.md: upgrading.md #upgrading-from-3x-to-4x
-  #       releases/changelog.md: changelog.md
-  #       setup/adding-social-links.md: setup/setting-up-the-footer.md
-  #       sponsorship.md: insiders/index.md
-  # - minify:
-  #     minify_html: true
 
 # Customization
 extra:
@@ -127,6 +103,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+      toc_depth: 3
   # - pymdownx.arithmatex:
   #     generic: true
   # - pymdownx.betterem:
