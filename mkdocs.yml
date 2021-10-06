@@ -106,31 +106,32 @@ markdown_extensions:
       toc_depth: 3
   # - pymdownx.arithmatex:
   #     generic: true
-  # - pymdownx.betterem:
-  #     smart_enable: all
-  # - pymdownx.caret
-  # - pymdownx.details
-  # - pymdownx.emoji:
-  #     emoji_index: !!python/name:materialx.emoji.twemoji
-  #     emoji_generator: !!python/name:materialx.emoji.to_svg
-  # - pymdownx.highlight
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
   # - pymdownx.inlinehilite
   # - pymdownx.keys
   # - pymdownx.magiclink:
   #     repo_url_shorthand: true
   #     user: squidfunk
   #     repo: mkdocs-material
-  # - pymdownx.mark
+  - pymdownx.mark
   # - pymdownx.smartsymbols
-  # - pymdownx.superfences:
+  - pymdownx.superfences:
   #     custom_fences:
   #       - name: mermaid
   #         class: mermaid-experimental
   #         format: !!python/name:pymdownx.superfences.fence_code_format
-  # - pymdownx.tabbed
-  # - pymdownx.tasklist:
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
   #     custom_checkbox: true
-  # - pymdownx.tilde
+  - pymdownx.tilde
 
 # Page tree
 nav:
