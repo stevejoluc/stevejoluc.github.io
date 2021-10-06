@@ -158,8 +158,8 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Projects: 
-    - Introduction: intro.md
-    - Tools: 
-        - Terraform: tools/terraform.md
+  #- Projects: 
+  #  - Introduction: intro.md
+  #  - Tools: 
+  #      - Terraform: tools/terraform.md
   # - Projects: projects.md
