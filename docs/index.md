@@ -7,8 +7,8 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
 ## Hobbies
 
 ### Technology
-!!! note "Open Source"
-    Open Source :material-terraform:
+??? note "Open Source"
+    Open Source
 - Learning new Technologies
 - Working on IT Projects
 - Expanding my Homelab
@@ -24,10 +24,25 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
 - [x] Family
 - [x] Friends
 - [x] Faith
-- [x] Freedom :fontawesome-solid-flag-usa:
+- [x] Freedom :flag_us:
 
 ## Goals
-- Become a first line leader
+!!! example
+
+    === "Professional"
+
+        My Professional Goals:
+    
+        - [ ] Terraform Associate Certification
+        - [ ]Vault Associate Certification
+
+    ===  Personal"
+
+        My Personal Goals:
+
+        - [ ] Contribute to Open Source projects
+        - [ ] Create blog posts related to Tech
+
 
 ## Active Projects
  You are currently looking at one of my active projects! Creating a webpage via Gitlab was a project that motivated to get involved with my own personal Gitlab. However, my next project is to create a website that utilizes React and is hosted in AWS.
