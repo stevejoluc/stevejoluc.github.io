@@ -1,13 +1,14 @@
 # Home
-Welcome to my Gitlab page!
+Welcome to my Gitlab page! :wave_tone2:
 
 ## Introduction
-My name is Steven Lucero. I am known to be a natural leader who is passionate about about technology and people. I approach each day with a growth mindset; this has taught me to not be afraid of change, but to embrace it. I take pride in being a continuous learner, identifying opportunities to grow, and always challenging the status quo. Being an effective communicator across all my organization allows me to help shape strategic decisions to provide our customers and employees the best experience possible.
+My name is Steven Lucero. I am known to be a natural leader who is passionate about about technology and people. I approach each day with a growth mindset; this has taught me to not be afraid of change, but to embrace it. I take pride in being a continuous learner, identifying opportunities to grow, and always challenging the status quo.
 
 ## Hobbies
 
 ### Technology
-- Open Source :material-terraform:
+!!! note "Open Source"
+    Open Source :material-terraform:
 - Learning new Technologies
 - Working on IT Projects
 - Expanding my Homelab
