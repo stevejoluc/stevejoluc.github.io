@@ -7,7 +7,7 @@ My name is Steven Lucero. I am known to be a natural leader who is passionate ab
 ## Hobbies
 
 ### Technology
-- Open Source
+- Open Source :material-terraform:
 - Learning new Technologies
 - Working on IT Projects
 - Expanding my Homelab
@@ -15,15 +15,15 @@ My name is Steven Lucero. I am known to be a natural leader who is passionate ab
     - Home Assistant
 
 ### Sports
-- Golf
-- Football
+- Golf :golf:
+- Football :football:
 - Soccer
 
 ### Values
 - [x] Family
 - [x] Friends
 - [x] Faith
-- [x] Freedom
+- [x] Freedom :fontawesome-solid-flag-usa:
 
 ## Goals
 - Become a first line leader
@@ -37,4 +37,4 @@ My name is Steven Lucero. I am known to be a natural leader who is passionate ab
 - [Online Resume](https://registry.jsonresume.org/stevejoluc)
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/steven-lucero/)
+- [x] [LinkedIn](https://www.linkedin.com/in/steven-lucero/)
