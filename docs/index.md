@@ -2,7 +2,7 @@
 Welcome to my Gitlab page! :wave_tone2:
 
 ## Introduction
-My name is Steven Lucero. I am known to be a natural leader who is passionate about about technology and people. I approach each day with a growth mindset; this has taught me to not be afraid of change, but to embrace it. I take pride in being a continuous learner, identifying opportunities to grow, and always challenging the status quo.
+My name is Steven. I am known to be a natural leader who is passionate about about technology and people. I approach each day with a growth mindset; this has taught me to not be afraid of change, but to embrace it. I take pride in being a continuous learner, identifying opportunities to grow, and always challenging the status quo.
 
 ## Hobbies
 
