@@ -27,21 +27,6 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
 - [x] Freedom :flag_us:
 
 ## Goals
-!!! example
-
-    === "Professional"
-
-        My Professional Goals:
-    
-        - [ ] Terraform Associate Certification
-        - [ ]Vault Associate Certification
-
-    ===  Personal"
-
-        My Personal Goals:
-
-        - [ ] Contribute to Open Source projects
-        - [ ] Create blog posts related to Tech
 
 
 ## Active Projects
