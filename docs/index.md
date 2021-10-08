@@ -58,6 +58,10 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
     * Discipline
     * Strategy
 
+### Music
+??? summary "Guitar"
+    I am an amatuer but that doesn't stop me from playing power chords and singing my favorite tunes!
+
 ## Goals
 ??? example "Professional & Personal Goals"
 
