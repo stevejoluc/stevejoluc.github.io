@@ -4,6 +4,12 @@ Welcome to my Gitlab page! :wave_tone2:
 ## Introduction
 My name is Steven. I am known to be a natural leader who is passionate about about technology and people. I approach each day with a growth mindset; this has taught me to not be afraid of change, but to embrace it. I take pride in being a continuous learner, identifying opportunities to grow, and always challenging the status quo.
 
+## Values
+- [x] Family
+- [x] Friends
+- [x] Faith
+- [x] Freedom
+
 ## Hobbies
 
 ### Technology
@@ -52,13 +58,29 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
     * Discipline
     * Strategy
 
-## Values
-- [x] Family
-- [x] Friends
-- [x] Faith
-- [x] Freedom
-
 ## Goals
+??? example "Professional & Personal Goals"
+
+    === "Professional"
+
+        Career:
+
+        - [ ] Become a First Line Leader
+        - [ ] Contribute to Open Source
+
+        Certificates:
+
+        - [ ] Terraform Associate Certification
+        - [ ] Vault Associate Certification
+        - [ ] AWS Certified Solutions Architect – Associate
+        
+
+    === "Personal"
+
+        - [ ] Hit a hole in one :golf:
+        - [ ] Create a blogging site
+        - [ ] Continue to step out of comfort zone
+        - [ ] Be the best husband and father
 
 
 ## Active Projects
@@ -70,4 +92,4 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
 - [Online Resume](https://registry.jsonresume.org/stevejoluc)
 
 ## Let's Connect
-- [x] [LinkedIn](https://www.linkedin.com/in/steven-lucero/)
+[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/steven-lucero/)
