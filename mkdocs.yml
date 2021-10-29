@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 site_name: My Personal GitLab Page
-site_url: https://pages.gitlab.io/mkdocs
+site_url: http://stevejoluc.github.io/portfolio/
 site_dir: public
 
 # Copyright
