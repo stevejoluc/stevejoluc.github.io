@@ -71,7 +71,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: material-account-circle
   icon:
     logo: fontawesome/brands/github
 
