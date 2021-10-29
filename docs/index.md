@@ -69,6 +69,7 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
 
         Career:
 
+        - [ ] Achieve an Engineer title
         - [ ] Become a First Line Leader
         - [ ] Contribute to Open Source
 
@@ -84,11 +85,10 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
         - [ ] Hit a hole in one :golf:
         - [ ] Create a blogging site
         - [ ] Continue to step out of comfort zone
-        - [ ] Be the best husband and father
 
 
 ## Active Projects
- To view active list of my current projects, check out my [Status Board.](https://gitlab.com/stevejoluc/my-first-wiki/-/boards)
+ To view active list of my current projects, check out my [Status Board.](https://github.com/users/stevejoluc/projects/2)
 
 ## Resume
 [Resume :fontawesome-solid-user-tie:](https://registry.jsonresume.org/stevejoluc){ .md-button .md-button--primary }
