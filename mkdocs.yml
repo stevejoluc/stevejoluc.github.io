@@ -57,7 +57,7 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: black
+      primary: white
       accent: deep purple
       toggle:
         icon: material/toggle-switch-off-outline
