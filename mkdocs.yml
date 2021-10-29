@@ -57,14 +57,14 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: deep purple
-      accent: deep purple
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
       primary: black
-      accent: deep purple
+      accent: indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
