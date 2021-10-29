@@ -43,9 +43,9 @@ theme:
     - content.code.annotate
     - content.tabs.link
     - header.autohide
-    # - navigation.expand
+    - navigation.expand
     - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
