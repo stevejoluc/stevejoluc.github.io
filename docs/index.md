@@ -91,8 +91,8 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
  To view active list of my current projects, check out my [Status Board.](https://github.com/users/stevejoluc/projects/2)
 
 ## Resume
-[Resume :fontawesome-solid-user-tie:](https://registry.jsonresume.org/stevejoluc){ .md-button .md-button--primary }
+[Resume :fontawesome-solid-user-tie:](https://registry.jsonresume.org/stevejoluc){ .md-button }
 
 ## Let's Connect
 
-[LinkedIn :fontawesome-brands-linkedin:](https://www.linkedin.com/in/steven-lucero/){ .md-button .md-button--primary }
+[LinkedIn :fontawesome-brands-linkedin:](https://www.linkedin.com/in/steven-lucero/){ .md-button }
