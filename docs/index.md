@@ -13,9 +13,10 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
 ## Hobbies
 
 ### Technology
-??? summary "Open Source"
-    Open Source has always caught my attention. I believe this is because I am big on helping people and growing a community. Open Source also provides a good foundation to help you learn how certain products since it lets you get your hands dirty.
+#### Open Source
+Open Source has always caught my attention. I believe this is because I am big on helping people and growing a community. Open Source also provides a good foundation to help you learn how certain products since it lets you get your hands dirty.
 
+!!! cite ""
     **Favorite Open Source Products**:
 
     * Terraform :material-terraform:
@@ -23,9 +24,10 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
     * Grafana :material-magnify:
     * OpenTelemetry :material-telescope:
 
-??? summary "Homelab"
-    Creating and expanding on my homelab has been extremely rewarding to me. Not only has it increased my understanding of Networking, it also allows me to continue to learn about new technology.
+#### Homelab
+Creating and expanding on my homelab has been extremely rewarding to me. Not only has it increased my understanding of Networking, it also allows me to continue to learn about new technology.
 
+!!! cite ""
     **Homelab**:
 
     * Home Assistant :material-home-assistant:
@@ -33,24 +35,27 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
     * Raspberry Pi :fontawesome-brands-raspberry-pi:
 
 ### Sports
-??? summary "Golf"
-    I started getting into golf around 2019. Although I do not get to go as often as I would like to, golf has found its way into my heart. If you have a set up clubs, lets grab a tee time together!
+#### Golf
+I started getting into golf around 2019. Although I do not get to go as often as I would like to, golf has found its way into my heart. If you have a set up clubs, lets grab a tee time together!
 
+!!! cite ""
     **Current clubs**:
 
     * PXG
 
-??? summary "Football"
-    I never played football in school growing up but you can bet I will always be watching every Sunday!
+#### Football
+I never played football in school growing up but you can bet I will always be watching every Sunday!
 
+!!! cite ""
     **Favorite teams**:
 
     * Chargers :material-lightning-bolt:
     * Cardinals
 
-??? summary "Soccer"
-    I grew up playing soccer. I started when I was 3 and played all the way up to college. Even though I do not watch soccer that often, soccer taught me lots of valuable lessons and helped shape me into the leader I am today
+#### Soccer
+I grew up playing soccer. I started when I was 3 and played all the way up to college. Even though I do not watch soccer that often, soccer taught me lots of valuable lessons and helped shape me into the leader I am today
 
+!!! cite ""
     **Soccer taught me**:
 
     * Leadership
@@ -59,11 +64,11 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
     * Strategy
 
 ### Music
-??? summary "Guitar"
-    I am an amatuer but that doesn't stop me from playing power chords and singing my favorite tunes!
+#### Guitar
+I am an amatuer but that doesn't stop me from playing power chords and singing my favorite tunes!
 
 ## Goals
-??? example "Professional & Personal Goals"
+!!! example ""
 
     === "Professional"
 
