@@ -93,7 +93,7 @@ I am an amatuer but that doesn't stop me from playing power chords and singing m
 
 
 ## Active Projects
- To view active list of my current projects, check out my [Status Board.](https://github.com/users/stevejoluc/projects/2)
+ To view active list of my current projects, check out my [Status Board.](https://github.com/users/stevejoluc/projects/2#column-16610887)
 
 ## Resume
 [Resume :fontawesome-solid-user-tie:](https://registry.jsonresume.org/stevejoluc){ .md-button }
