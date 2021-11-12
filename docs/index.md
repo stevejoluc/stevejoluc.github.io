@@ -74,6 +74,7 @@ I am an amatuer but that doesn't stop me from playing power chords and singing m
 
         Career:
 
+        - [x] Product Owner
         - [ ] Technology Manager
 
         Certificates:
