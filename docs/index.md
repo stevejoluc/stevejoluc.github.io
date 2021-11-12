@@ -14,7 +14,7 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
 
 ### Technology
 #### Open Source
-Open Source has always caught my attention. I believe this is because I am big on helping people and growing a community. Open Source also provides a good foundation to help you learn how certain products since it lets you get your hands dirty.
+Working and finding ways to contribute to Open Source projects has always been a passion of mine. 
 
 !!! cite ""
     **Favorite Open Source Products**:
@@ -25,7 +25,7 @@ Open Source has always caught my attention. I believe this is because I am big o
     * OpenTelemetry :material-telescope:
 
 #### Homelab
-Creating and expanding on my homelab has been extremely rewarding to me. Not only has it increased my understanding of Networking, it also allows me to continue to learn about new technology.
+Creating and expanding on my homelab has been extremely rewarding to me. Not only has it increased my understanding of networking, it also allows me to continue to learn about new technology.
 
 !!! cite ""
     **Homelab**:
@@ -36,7 +36,7 @@ Creating and expanding on my homelab has been extremely rewarding to me. Not onl
 
 ### Sports
 #### Golf
-I started getting into golf around 2019. Although I do not get to go as often as I would like to, golf has found its way into my heart. If you have a set up clubs, lets grab a tee time together!
+I started golfing around 2019. Although I do not get to go as often as I would like to, golf found its way into my heart. If you have a set up clubs, lets grab a tee time together!
 
 !!! cite ""
     **Current clubs**:
@@ -53,7 +53,7 @@ I never played football in school growing up but you can bet I will always be wa
     * Cardinals
 
 #### Soccer
-I grew up playing soccer. I started when I was 3 and played all the way up to college. Even though I do not watch soccer that often, soccer taught me lots of valuable lessons and helped shape me into the leader I am today
+I grew up playing soccer. I started when I was 3 and played all the way up to college. Soccer taught me many valuable lessons and shape me into the leader I am today.
 
 !!! cite ""
     **Soccer taught me**:
@@ -67,16 +67,14 @@ I grew up playing soccer. I started when I was 3 and played all the way up to co
 #### Guitar
 I am an amatuer but that doesn't stop me from playing power chords and singing my favorite tunes!
 
-## Goals
+## Goals and Asparations
 !!! example ""
 
     === "Professional"
 
         Career:
 
-        - [ ] Achieve an Engineer title
-        - [ ] Become a First Line Leader
-        - [ ] Contribute to Open Source
+        - [ ] Technology Manager
 
         Certificates:
 
@@ -89,7 +87,7 @@ I am an amatuer but that doesn't stop me from playing power chords and singing m
 
         - [ ] Hit a hole in one :golf:
         - [ ] Create a blogging site
-        - [ ] Continue to step out of comfort zone
+
 
 
 ## Active Projects
