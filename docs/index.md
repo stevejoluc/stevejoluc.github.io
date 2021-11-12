@@ -67,7 +67,7 @@ I grew up playing soccer. I started when I was 3 and played all the way up to co
 #### Guitar
 I am an amatuer but that doesn't stop me from playing power chords and singing my favorite tunes!
 
-## Goals and Asparations
+## Goals and Aspirations
 !!! example ""
 
     === "Professional"
