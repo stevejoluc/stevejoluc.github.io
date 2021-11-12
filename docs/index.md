@@ -14,7 +14,7 @@ My name is Steven. I am known to be a natural leader who is passionate about abo
 
 ### Technology
 #### Open Source
-Working and finding ways to contribute to Open Source projects has always been a passion of mine. 
+Working with and finding ways to contribute to Open Source projects has always been a passion of mine. 
 
 !!! cite ""
     **Favorite Open Source Products**:
