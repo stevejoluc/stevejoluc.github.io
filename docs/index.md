@@ -19,24 +19,25 @@ Working with and finding ways to contribute to Open Source projects has always b
 !!! cite ""
     **Favorite Open Source Products**:
 
-    * Terraform :material-terraform:
-    * Home Assistant :material-home-assistant:
-    * Grafana :material-magnify:
-    * OpenTelemetry :material-telescope:
+    * Terraform
+    * Home Assistant
+    * Grafana
+    * OpenTelemetry
 
 #### Homelab
-Creating and expanding on my homelab has been extremely rewarding to me. Not only has it increased my understanding of networking, it also allows me to continue to learn about new technology.
+Researching and expanding my homelab is extremely rewarding to me. Not only has it increased my understanding of networking, it also allows me to continue to learn about new technology.
 
 !!! cite ""
     **Homelab**:
 
-    * Home Assistant :material-home-assistant:
-    * Ubiquiti :material-wifi:
-    * Raspberry Pi :fontawesome-brands-raspberry-pi:
+    * Home Assistant
+    * Ubiquiti
+    * Raspberry Pi
+    * Ad Blocker
 
 ### Sports
 #### Golf
-I started golfing around 2019. Although I do not get to go as often as I would like to, golf found its way into my heart. If you have a set up clubs, lets grab a tee time together!
+I started golfing around 2019. Although I don't get to go often, golf has found its way into my heart. If you have a set up clubs, lets grab a tee time!
 
 !!! cite ""
     **Current clubs**:
@@ -49,11 +50,11 @@ I never played football in school growing up but you can bet I will always be wa
 !!! cite ""
     **Favorite teams**:
 
-    * Chargers :material-lightning-bolt:
+    * Chargers
     * Cardinals
 
 #### Soccer
-I grew up playing soccer. I started when I was 3 and played all the way up to college. Soccer taught me many valuable lessons and shape me into the leader I am today.
+I started when I was 3 and played all the way up to college. Soccer taught me many valuable lessons and helped shape me into the leader I am today.
 
 !!! cite ""
     **Soccer taught me**:
@@ -82,12 +83,6 @@ I am an amatuer but that doesn't stop me from playing power chords and singing m
         - [ ] Terraform Associate Certification
         - [ ] Vault Associate Certification
         - [ ] AWS Certified Solutions Architect – Associate
-        
-
-    === "Personal"
-
-        - [ ] Hit a hole in one :golf:
-        - [ ] Create a blogging site
 
 
 
