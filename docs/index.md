@@ -2,7 +2,7 @@
 Welcome to my Gitlab page! :wave_tone2:
 
 ## Introduction
-Hello, my name is Steven. I am a natural leader who is passionate about about technology and people. I approach each day with a growth mindset; this has taught me to not be afraid of change, but to embrace it. I take pride in being a **continuous learner**, **identifying opportunities to grow**, and **always challenging the status quo**.
+Hello, my name is Steven. I am a natural leader who is passionate about about technology and people. I approach each day with a growth mindset; this has taught me to not be afraid of change, but to embrace it. I take pride in being a continuous learner, identifying opportunities to grow, and always challenging the status quo.
 
 ## Values
 - [x] Family
@@ -14,7 +14,7 @@ Hello, my name is Steven. I am a natural leader who is passionate about about te
 
 ### Technology
 #### Open Source
-Working with and finding ways to contribute to Open Source projects has always been a passion of mine. 
+Working with Open Source projects has always been a passion of mine. 
 
 !!! cite ""
     **Favorite Open Source Products**:
@@ -31,13 +31,12 @@ Researching and expanding my homelab is extremely rewarding to me. Not only has 
     **Homelab**:
 
     * Home Assistant
-    * Ubiquiti
+    * Unifi
     * Raspberry Pi
-    * Ad Blocker
 
 ### Sports
 #### Golf
-I started golfing around 2019. Although I don't get to go often, golf has found its way into my heart. If you have a set up clubs, lets grab a tee time!
+I started golfing around 2019. If you have a set up clubs, lets grab a tee time!
 
 !!! cite ""
     **Current clubs**:
@@ -45,8 +44,6 @@ I started golfing around 2019. Although I don't get to go often, golf has found 
     * PXG
 
 #### Football
-I never played football in school growing up but you can bet I will always be watching every Sunday!
-
 !!! cite ""
     **Favorite teams**:
 
@@ -54,7 +51,7 @@ I never played football in school growing up but you can bet I will always be wa
     * Cardinals
 
 #### Soccer
-I started when I was 3 and played all the way up to college. Soccer taught me many valuable lessons and helped shape me into the leader I am today.
+I started playing soccer when I was 3 and played all the way up to college. Soccer taught me many valuable lessons and helped shape me into the leader I am today.
 
 !!! cite ""
     **Soccer taught me**:
@@ -66,7 +63,7 @@ I started when I was 3 and played all the way up to college. Soccer taught me ma
 
 ### Music
 #### Guitar
-I am an amatuer but that doesn't stop me from playing power chords and singing my favorite tunes!
+I don't play to often, but that doesn't stop me from playing power chords and singing my favorite tunes!
 
 ## Goals and Aspirations
 !!! example ""
