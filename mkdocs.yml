@@ -20,10 +20,11 @@
 
 site_name: Portfolio
 site_url: http://stevejoluc.github.io/portfolio/
+site_author: Steven
 site_dir: public
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2021 Martin Donath
+copyright: Copyright &copy; 2016 - 2022 Martin Donath
 
 extra_css:
   - assets/css/main.css
@@ -34,9 +35,11 @@ extra_javascript:
 theme:
   name: material
   custom_dir: theme
+  
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
+  
   # Default values, taken from mkdocs_theme.yml
   language: en
   features:
@@ -73,7 +76,7 @@ theme:
     code: Roboto Mono
   favicon: fontawesome/brands/github
   icon:
-    logo: fontawesome/brands/github
+    logo: logo
 
 # Plugins
 plugins:
@@ -87,8 +90,6 @@ extra:
   social:
     - icon: fontawesome/brands/gitlab
       link: https://gitlab.com/stevejoluc/my-first-wiki
-    # - icon: fontawesome/brands/docker
-    #   link: https://hub.docker.com/r/squidfunk/mkdocs-material/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/steven-lucero/
 
@@ -138,5 +139,3 @@ nav:
   - Home: index.md
   - Projects: 
      - Active Projects: projects/projects.md
-  #  - Tools: 
-  #      - Terraform: tools/terraform.md
