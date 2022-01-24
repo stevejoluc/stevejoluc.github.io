@@ -14,7 +14,6 @@ Hello, my name is Steven. I am a natural leader who is passionate about about te
 
 ### Technology
 #### Open Source
-Working with Open Source projects has always been a passion of mine. 
 
 !!! cite ""
     **Favorite Open Source Products**:
@@ -25,7 +24,6 @@ Working with Open Source projects has always been a passion of mine.
     * OpenTelemetry
 
 #### Homelab
-Researching and expanding my homelab is extremely rewarding to me. Not only has it increased my understanding of networking, it also allows me to continue to learn about new technology.
 
 !!! cite ""
     **Homelab**:
