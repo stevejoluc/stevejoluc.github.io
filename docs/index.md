@@ -40,7 +40,7 @@ Researching and expanding my homelab is extremely rewarding to me. Not only has 
 - Soccer
 
 ### Music
-#### Guitar
+- Guitar
 
 ## Goals and Aspirations
 !!! example ""
