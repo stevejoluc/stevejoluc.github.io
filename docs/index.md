@@ -35,9 +35,9 @@ Researching and expanding my homelab is extremely rewarding to me. Not only has 
     * Raspberry Pi
 
 ### Sports
-#### Golf
-#### Football
-#### Soccer
+- Golf
+- Football
+- Soccer
 
 ### Music
 #### Guitar
