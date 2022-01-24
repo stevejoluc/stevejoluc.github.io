@@ -61,13 +61,13 @@ theme:
       accent: indigo
       toggle:
         icon: material/toggle-switch
-        name: Switch to dark mode
+        name: Switch to light mode
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to light mode
+        name: Switch to dark mode
   font:
     text: Roboto
     code: Roboto Mono
