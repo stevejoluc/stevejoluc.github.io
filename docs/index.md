@@ -38,17 +38,8 @@ Researching and expanding my homelab is extremely rewarding to me. Not only has 
 #### Golf
 I started golfing around 2019. If you have a set up clubs, lets grab a tee time!
 
-!!! cite ""
-    **Current clubs**:
-
-    * PXG
-
 #### Football
-!!! cite ""
-    **Favorite teams**:
-
-    * Chargers
-    * Cardinals
+Go Chargers!
 
 #### Soccer
 I started playing soccer when I was 3 and played all the way up to college. Soccer taught me many valuable lessons and helped shape me into the leader I am today.
@@ -63,7 +54,6 @@ I started playing soccer when I was 3 and played all the way up to college. Socc
 
 ### Music
 #### Guitar
-I don't play to often, but that doesn't stop me from playing power chords and singing my favorite tunes!
 
 ## Goals and Aspirations
 !!! example ""
