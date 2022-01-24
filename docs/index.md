@@ -36,21 +36,8 @@ Researching and expanding my homelab is extremely rewarding to me. Not only has 
 
 ### Sports
 #### Golf
-I started golfing around 2019. If you have a set up clubs, lets grab a tee time!
-
 #### Football
-Go Chargers!
-
 #### Soccer
-I started playing soccer when I was 3 and played all the way up to college. Soccer taught me many valuable lessons and helped shape me into the leader I am today.
-
-!!! cite ""
-    **Soccer taught me**:
-
-    * Leadership
-    * Teamwork
-    * Discipline
-    * Strategy
 
 ### Music
 #### Guitar
