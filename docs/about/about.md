@@ -9,6 +9,7 @@ Hello, my name is Steven, and I am a technical leader with a passion for technol
 Interests:
 - AWS
 - Terraform
+- Observability
 - Python
 - CI/CD
 
