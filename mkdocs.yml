@@ -140,5 +140,4 @@ nav:
   - Goals: goals/goals.md
   - Projects: 
      - Active Projects: projects/projects.md
-  - Blog:
-    - blog/index.md
+  - Blog: blog/index.md
