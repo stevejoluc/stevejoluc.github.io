@@ -43,11 +43,11 @@ theme:
   language: en
   features:
     - content.code.annotate
-    # - content.tabs.link
-    # - header.autohide
-    # - navigation.expand
+    - content.tabs.link
+    - header.autohide
+    - navigation.expand
     - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
@@ -56,7 +56,7 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
-    # - toc.integrate
+    - toc.integrate
   palette:
     - scheme: default
       primary: indigo
