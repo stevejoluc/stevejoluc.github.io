@@ -19,9 +19,13 @@
 # IN THE SOFTWARE.
 
 site_name: Portfolio
-site_url: http://stevejoluc.github.io/portfolio/
+site_url: http://stevejoluc.github.io/
 site_author: Steven
-site_dir: public
+
+# Repository
+repo_name: stevejoluc/stevejoluc.github.io
+repo_url: https://stevejoluc.github.io
+edit_uri: ""
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2022 Martin Donath
