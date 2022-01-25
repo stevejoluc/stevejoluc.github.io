@@ -41,11 +41,11 @@ Hello, my name is Steven. I am a natural leader who is passionate about about te
 - Guitar
 
 ## Goals and Aspirations
-### Career:
+### Career
 - [x] Product Owner
 - [ ] Technology Manager
 
-### Certificates:
+### Certificates
 - [ ] Terraform Associate Certification
 - [ ] Vault Associate Certification
 - [ ] AWS Certified Solutions Architect – Associate
