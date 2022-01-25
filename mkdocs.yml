@@ -137,5 +137,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about/about.md
+  - Goals: goals/goals.md
   - Projects: 
      - Active Projects: projects/projects.md
