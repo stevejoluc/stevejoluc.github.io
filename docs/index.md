@@ -1,9 +1,6 @@
 # Home
 Welcome to my Gitlab page! :wave_tone2:
 
-## Introduction
-Hello, my name is Steven. I am a natural leader who is passionate about about technology and people. I approach each day with a growth mindset; this has taught me to not be afraid of change, but to embrace it. I take pride in being a continuous learner, identifying opportunities to grow, and always challenging the status quo.
-
 ## Hobbies
 
 ### Technology
@@ -47,9 +44,5 @@ Hello, my name is Steven. I am a natural leader who is passionate about about te
 ## Active Projects
  To view active list of my current projects, check out my [Status Board.](https://github.com/users/stevejoluc/projects/2#column-16610887)
 
-## Resume
-[Resume :fontawesome-solid-user-tie:](https://registry.jsonresume.org/stevejoluc){ .md-button }
-
 ## Let's Connect
-
 [LinkedIn :fontawesome-brands-linkedin:](https://www.linkedin.com/in/steven-lucero/){ .md-button }
