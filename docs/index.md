@@ -4,12 +4,6 @@ Welcome to my Gitlab page! :wave_tone2:
 ## Introduction
 Hello, my name is Steven. I am a natural leader who is passionate about about technology and people. I approach each day with a growth mindset; this has taught me to not be afraid of change, but to embrace it. I take pride in being a continuous learner, identifying opportunities to grow, and always challenging the status quo.
 
-## Values
-- [x] Family
-- [x] Friends
-- [x] Faith
-- [x] Freedom
-
 ## Hobbies
 
 ### Technology
@@ -49,8 +43,6 @@ Hello, my name is Steven. I am a natural leader who is passionate about about te
 - [ ] Terraform Associate Certification
 - [ ] Vault Associate Certification
 - [ ] AWS Certified Solutions Architect – Associate
-
-
 
 ## Active Projects
  To view active list of my current projects, check out my [Status Board.](https://github.com/users/stevejoluc/projects/2#column-16610887)
