@@ -22,11 +22,6 @@ site_name: Portfolio
 site_url: http://stevejoluc.github.io/
 site_author: Steven
 
-# Repository
-repo_name: stevejoluc/stevejoluc.github.io
-repo_url: https://stevejoluc.github.io
-edit_uri: ""
-
 # Copyright
 copyright: Copyright &copy; 2016 - 2022 Martin Donath
 
@@ -78,9 +73,9 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: fontawesome/brands/github
+  favicon: logo
   icon:
-    logo: logo
+    logo: fontawesome/brands/github
 
 # Plugins
 plugins:
