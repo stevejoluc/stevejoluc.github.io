@@ -23,7 +23,7 @@ site_url: http://stevejoluc.github.io/
 site_author: Steven
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Martin Donath
+copyright: Copyright &copy; 2016 - 2022 Steven
 
 extra_css:
   - assets/css/main.css
