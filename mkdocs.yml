@@ -126,6 +126,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home: 
+     - About Me: index.md
   - Projects: 
      - Active Projects: projects/projects.md
