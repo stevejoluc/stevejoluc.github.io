@@ -1,36 +1,6 @@
 # Home
 Welcome to my Gitlab page! :wave_tone2:
 
-## Hobbies
-
-### Technology
-#### Open Source
-
-!!! cite ""
-    **Favorite Open Source Products**:
-
-    * Terraform
-    * Home Assistant
-    * Grafana
-    * OpenTelemetry
-
-#### Homelab
-
-!!! cite ""
-    **Homelab**:
-
-    * Home Assistant
-    * Unifi
-    * Raspberry Pi
-
-### Sports
-- Golf
-- Football
-- Soccer
-
-### Music
-- Guitar
-
 ## Active Projects
  To view active list of my current projects, check out my [Status Board.](https://github.com/users/stevejoluc/projects/2#column-16610887)
 
