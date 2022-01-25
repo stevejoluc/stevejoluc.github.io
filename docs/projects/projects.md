@@ -4,7 +4,7 @@
 ## Personal Webpage 
 Create a personal website utilizing Gitlab and MKDocs. If you are interested in trying this project, I recommend starting [here](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
-??? quote "Who should work on this project?"
+???+ quote "Who should work on this project?"
     I would recommend this project to everyone. While it can be a simple project, you can take it to the next level by building a Gitlab pipeline to run a local copy before deploying. This project also exposes you to formats that are typically used to build runbooks or technical documentation.
 
     Hightlights:
