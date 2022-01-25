@@ -31,16 +31,6 @@ Welcome to my Gitlab page! :wave_tone2:
 ### Music
 - Guitar
 
-## Goals and Aspirations
-### Career
-- [x] Product Owner
-- [ ] Technology Manager
-
-### Certificates
-- [ ] Terraform Associate Certification
-- [ ] Vault Associate Certification
-- [ ] AWS Certified Solutions Architect – Associate
-
 ## Active Projects
  To view active list of my current projects, check out my [Status Board.](https://github.com/users/stevejoluc/projects/2#column-16610887)
 
