@@ -1,7 +1,8 @@
 # 2022 Goals and Aspirations
 ## Career
 - [x] Product Owner
-- [ ] Software Engineer or Technical Program Manager
+- [x] Infrastructure Engineer
+- [ ] Technical Program Manager
 
 ## Certificates
 - [ ] AWS Certified Solutions Architect – Associate
@@ -13,4 +14,6 @@
 - [ ] [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 
 ## Books
-- [ ] Cracking the PM interview
+- [x] Atomic Habits
+- [ ] Cracking the PM Interview
+- [ ] The First 90 Days
