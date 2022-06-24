@@ -2,12 +2,11 @@
 ## Career
 - [x] Product Owner
 - [x] Infrastructure Engineer
-- [ ] Technical Program Manager
+- [ ] Technology Manager
 
 ## Certificates
 - [ ] AWS Certified Solutions Architect – Associate
 - [ ] Terraform Associate Certification
-- [ ] Vault Associate Certification
 
 ## Online Classes
 - [ ] [AWS Certified Solutions Architect - Associate (SAA-C02)](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02)
