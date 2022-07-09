@@ -17,11 +17,6 @@ Create a personal website utilizing Gitlab and MKDocs. If you are interested in 
 
     - [x] Beginner
 
-
-??? success
-    I was able to deploy this website using Gitlab and MKDocs! While my website is still in its infancy, I am celebrating this little victory! :partying_face:   
-
-
 ## Create a Spotify Playlist with Terraform
 While studying for my Terraform Associate, I stumbled across an article that provides instructions for creating a Spotify Playlist via Terraform. Here is a [link](https://learn.hashicorp.com/tutorials/terraform/spotify-playlist) to the aricle for those of you who are interested.
 
@@ -36,6 +31,3 @@ While studying for my Terraform Associate, I stumbled across an article that pro
     Complexity Level:
 
     - [x] Beginner
-
-??? success
-    I was able to deploy a playlist to Spotify using Terraform!
