@@ -1,5 +1,5 @@
 # Home
-Welcome to my Gitlab page! :wave_tone2:
+Leader in technology with a passion for innovation. I enjoy challenging the status quo, empowering my peers, and being a continous learner.
 
 ## Active Projects
  To view active list of my current projects, check out my [Status Board.](https://github.com/users/stevejoluc/projects/2#column-16610887)
