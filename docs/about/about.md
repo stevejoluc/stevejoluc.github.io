@@ -2,20 +2,16 @@
 
 #### [Resume](https://registry.jsonresume.org/stevejoluc)
 
-Hello, my name is Steven, and I am a technical leader with a passion for technology and people. To help you understand who I am, I will summarize my strengths into three buckets; [leadership](https://stevejoluc.github.io/about/about/#leadership), [learning agility](https://stevejoluc.github.io/about/about/#learning-agility), and [developing others](https://stevejoluc.github.io/about/about/#developing-others).
+Hello, my name is Steven. I am an infrastructure engineer with a passion for technology and people. To help you understand who I am, I will summarize my strengths into three buckets; **leadership**, **developing others**, and being a **continous learner**.
 
 ## Leadership
-I come from a family that has a deep history of being first responders and serving our country. This background has helped instill me with leadership values such as; team work, the ability to adapt, and finding strategic solutions to problems. Throughout my life I have always gravitated toward a leadership role. Whether it has been Team Captain for soccer or a Product Owner at State Farm. Being a leader has always been part of who I am. It also provides me with what I find most rewarding; coaching, motivating and empowering my peers.
-
-## Learning Agility
-
-## Developing Others
+I come from a family that has a deep history of being first responders and serving our country. This background has helped instill me with leadership values such as; team work, the ability to adapt, and finding strategic solutions to problems. Throughout my life I have always gravitated toward a leadership role. Whether it has been Team Captain for soccer or a technology leader at State Farm. Being a leader has always been part of who I am. It provides me with what I find most rewarding; coaching, motivating and empowering my peers.
 
 ## Interestes
 ### Technology
 - AWS
 - Terraform
-- Observability
+- Observability Platforms
 - Python
 - CI/CD
 
@@ -27,5 +23,6 @@ I come from a family that has a deep history of being first responders and servi
 ### Hobbies
 - Researching new technology
 - Improving Homelab
-- Golfing
+- Testing out linux distros
+- Golfing (PXG)
 - Playing Guitar
