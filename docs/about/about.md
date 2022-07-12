@@ -10,7 +10,7 @@ I come from a family that has a deep history of being first responders and servi
 ## Interestes
 ### Technology
 - AWS
-- Terraform
+- HashiCorp Stack (Terraform)
 - Observability Platforms
 - Python
 - CI/CD
