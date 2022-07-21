@@ -26,6 +26,3 @@ I come from a family that has a deep history of being first responders and servi
 - Testing out linux distros
 - Golfing (PXG)
 - Playing Guitar
-
-## Let's Connect
-[LinkedIn :fontawesome-brands-linkedin:](https://www.linkedin.com/in/steven-lucero/){ .md-button }
