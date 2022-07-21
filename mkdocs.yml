@@ -22,9 +22,6 @@ site_name: Portfolio
 site_url: http://stevejoluc.github.io/
 site_author: Steven Lucero
 
-# Copyright
-copyright: Copyright &copy; 2016 - 2022
-
 extra_css:
   - assets/css/main.css
 extra_javascript:
