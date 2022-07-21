@@ -55,13 +55,16 @@ theme:
     - search.suggest
     # - toc.integrate
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-    - scheme: slate
+
+    - media: "(prefers-color-scheme: dark)"    
+      scheme: slate
       primary: indigo
       accent: indigo
       toggle:
