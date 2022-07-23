@@ -1,4 +1,6 @@
 # What is FinOps?
+
+## Summary
 [FinOps](https://www.finops.org/introduction/what-is-finops/) stands for Finance Operations and is a framework that provides best practices to optimize cloud spend. FinOps breaks down the silos between procurement and engineering teams to allow companies to improve the speed, cost and quality of their cloud architecture. FinOps is a mindset and should be driven by a centralized team. This team takes accountability of cloud spend, provides showback reports, and works together with the finance & engineering teams to manage and optimize total spend.  
 
 FinOps is a continuous process and has an operating model that spans three phases; *Inform*, *Optimize*, and *Operate*.
