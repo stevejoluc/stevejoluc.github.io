@@ -138,5 +138,8 @@ nav:
   - Home: index.md
   - About: about/about.md
   - Goals: goals/goals.md
+  - Blog: 
+    - 2022: 
+      - blog/finOps.md
   # - Projects: 
   #    - Active Projects: projects/projects.md
