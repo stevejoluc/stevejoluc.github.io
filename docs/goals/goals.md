@@ -14,5 +14,5 @@
 
 ## Books
 - [x] Atomic Habits
-- [ ] Cracking the PM Interview
+- [x] Cracking the PM Interview
 - [ ] The First 90 Days
