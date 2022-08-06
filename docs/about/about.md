@@ -10,7 +10,7 @@ I come from a family that has a deep history of being first responders and servi
 ### Technology
 - AWS
 - FinOps
-- HashiCorp Stack (Terraform)
+- Terraform
 - Observability Platforms
 - Python
 - CI/CD
@@ -24,5 +24,5 @@ I come from a family that has a deep history of being first responders and servi
 - Researching new technology
 - Improving Homelab
 - Testing out linux distros
-- Golfing (PXG)
+- Golfing
 - Playing Guitar
