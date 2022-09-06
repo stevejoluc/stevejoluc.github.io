@@ -140,6 +140,7 @@ nav:
   - Goals: goals/goals.md
   - Blog: 
     - 2022: 
+      - blog/blog.md
       - blog/finOps.md
   # - Projects: 
   #    - Active Projects: projects/projects.md
