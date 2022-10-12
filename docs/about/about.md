@@ -6,6 +6,11 @@ Hello, my name is Steven. I am an infrastructure engineer with a passion for tec
 
 I come from a family that has a deep history of being first responders and serving our country. This background has helped instill me with leadership values such as; team work, the ability to adapt, and finding strategic solutions to problems. Throughout my life I have always gravitated toward a leadership role. Whether it has been Team Captain for soccer or a technology leader at State Farm. Being a leader has always been part of who I am. It provides me with what I find most rewarding; coaching, motivating and empowering my peers.
 
+## Education
+:material-school: **Bachelor of Science in CIS**, ARIZONA STATE UNIVERSITY, 2017
+
+:material-certificate: **FinOps Certified Practitioner**, The Linux Foundation, 2022
+
 ## Interestes
 ### Technology
 - AWS
