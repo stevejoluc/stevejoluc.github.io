@@ -28,4 +28,4 @@ I come from a family that has a deep history of being first responders and servi
 - Researching new technology
 - Improving homelab
 - Golfing
-- Coaching soccer
+- Coaching
