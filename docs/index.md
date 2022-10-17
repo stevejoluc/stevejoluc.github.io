@@ -1,2 +1,2 @@
 # Steven Lucero
-Infrastructure engineer with a passion for leadership and innovation.
+Cloud FinOps Data Analyst with a passion for technology, leadership, and innovation.
