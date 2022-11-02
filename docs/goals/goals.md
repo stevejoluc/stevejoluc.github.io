@@ -1,6 +1,6 @@
 # 2022 Goals and Aspirations
 ## Certificates
-- [ ] Terraform Associate Certification
+- [x] Terraform Associate Certification
 - [x] FinOps Certified Practitioner
 - [ ] AWS Certified Solutions Architect – Associate
 

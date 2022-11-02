@@ -9,7 +9,10 @@ I come from a family that has a deep history of being first responders and servi
 ## Education
 :material-school: **Bachelor of Science in CIS**, ARIZONA STATE UNIVERSITY, 2017
 
+## Certificates
 :material-certificate: **FinOps Certified Practitioner**, The Linux Foundation, 2022
+
+:material-terraform: **Terraform Associate**, HashiCorp, 2022
 
 ## Interestes
 ### Technology
