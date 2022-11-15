@@ -8,5 +8,4 @@
 - [x] Atomic Habits
 - [x] Cracking the PM Interview
 - [x] Cloud FinOps
-- [ ] The Subtle Art of Not Giving a F*ck
 - [ ] The First 90 Days
