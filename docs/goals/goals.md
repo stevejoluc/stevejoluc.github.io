@@ -1,11 +1,5 @@
-# 2022 Goals and Aspirations
+# 2023 Goals and Aspirations
 ## Certificates
-- [x] Terraform Associate Certification
-- [x] FinOps Certified Practitioner
+- [ ] FinOps for Containers
+- [ ] FinOps Certified Professional
 - [ ] AWS Certified Solutions Architect – Associate
-
-## Books
-- [x] Atomic Habits
-- [x] Cracking the PM Interview
-- [x] Cloud FinOps
-- [ ] The First 90 Days
