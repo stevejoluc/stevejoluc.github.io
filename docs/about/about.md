@@ -28,5 +28,5 @@ Hello, my name is Steven. I am an Cloud FinOps Data Analyst with a passion for t
 ### Hobbies
 - Researching new technology
 - Improving homelab
-- Golfing
+- Golf
 - Coaching
