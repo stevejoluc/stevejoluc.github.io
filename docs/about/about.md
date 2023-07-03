@@ -14,16 +14,12 @@ Hello, my name is Steven. I am an Cloud FinOps Data Analyst with a passion for t
 
 ## Interestes
 ### Technology
-- AWS
+- AWS, Azure, GCP
 - FinOps
+- Generative AI
 - Terraform
 - Observability Platforms
-- Automation
 - Python
-
-### Homelab
-- Home Assistant
-- Unifi
 
 ### Hobbies
 - Researching new technology
