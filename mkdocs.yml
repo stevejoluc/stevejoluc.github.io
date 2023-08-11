@@ -80,7 +80,7 @@ theme:
 # Plugins
 plugins:
   - search
-  - blog
+  # - blog
 
 # Customization
 extra:
